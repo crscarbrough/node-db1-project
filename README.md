@@ -12,7 +12,7 @@
 
 Your assignment page on Canvas should contain instructions for submitting this project. If you are still unsure, reach out to School Staff.
 
-### Task 2: Minimum Viable Product XX
+### Task 2: Minimum Viable Product
 
 ### 2.1 Write Basic SQL Queries
 
